@@ -1,3 +1,3 @@
 # Desenvolvimento Web
 ---
-* __Objetivos__: Desenvolver habilidades em HTML, CSS e Java Script.
+* --Objetivos:-- Desenvolver habilidades em HTML, CSS e Java Script.
