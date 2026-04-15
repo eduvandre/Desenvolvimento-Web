@@ -1,35 +1,55 @@
-@charset "UTF-8"
-
-* {
-    height: 100%;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-article {
-    text-align: justify;
-}
+@charset "UTF-8";
 
 body {
-    background-image: linear-gradient(to left, #aeb692 40%, #d5dfb2);
-}
-
-h1 {
-    color:#010221;
-}
-
-h2 {
-    color: #010221;
+    background-color: #011C26;
+    background-image: url(images/notebook.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 main {
-    box-shadow: 5px 5px 10px #878d71;
-    border-radius:10px;
-    background-color: #ffffff;
-    width: 1300px;
-    padding: 10px;
-    margin:auto
+    background: linear-gradient(to top, #024959, #011C26);
+    padding: 15px;
+    width: 80%;
+    margin: auto;
+    border-radius: 10px;
+    border: 1px solid #2AA4BF;
+
 }
 
-footer {
-    color: #010221;
+#idlogo {
+    text-align: center;
+}
+
+.logos {
+    width: 80px;
+    margin: 5px 20px 5px 0px;
+}
+
+.logos:hover {
+    width: 85px;
+    transition: 0.5s;
+}
+
+main h1 {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+main h2 {
+    color: #2AA4BF;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+main a {
+    text-decoration: none;
+    color: #2AA4BF;
+}
+
+main a:hover {
+    text-decoration: underline;
 }

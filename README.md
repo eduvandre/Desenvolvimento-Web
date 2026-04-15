@@ -1,3 +1,3 @@
-# Desenvolvimento Web
+# Portifólio
 ---
-* __Objetivos__: Desenvolver habilidades em HTML, CSS e Java Script.
+* __Objetivos__: Demonstrar meu conhecimento utilizando HTML, CSS e JavaScript
